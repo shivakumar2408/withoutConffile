@@ -1,0 +1,11 @@
+<suite name="amazon test Suite" verbose="1">
+    <!-- This parameter will be passed to every test in this suite -->
+    <parameter name="suite-param" value="suite level parameter" />
+    <test name="amazon test">
+        <classes>
+            <class name="com.test.unosquare.amazonExample" />
+             
+        </classes>
+    </test>
+    
+</suite>

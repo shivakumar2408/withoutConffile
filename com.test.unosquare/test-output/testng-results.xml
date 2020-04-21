@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="amazon test Suite" duration-ms="44936" started-at="2020-04-21T12:57:14 CDT" finished-at="2020-04-21T12:57:59 CDT">
+    <groups>
+    </groups>
+    <test name="amazon test" duration-ms="44936" started-at="2020-04-21T12:57:14 CDT" finished-at="2020-04-21T12:57:59 CDT">
+      <class name="com.test.unosquare.amazonExample">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.unosquare.amazonExample@2a17b7b6]" name="setup" is-config="true" duration-ms="19346" started-at="2020-04-21T12:57:14 CDT" finished-at="2020-04-21T12:57:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="search_Product()[pri:1, instance:com.test.unosquare.amazonExample@2a17b7b6]" name="search_Product" duration-ms="22949" started-at="2020-04-21T12:57:34 CDT" finished-at="2020-04-21T12:57:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Product -->
+        <test-method status="PASS" signature="account_Creation()[pri:2, instance:com.test.unosquare.amazonExample@2a17b7b6]" name="account_Creation" duration-ms="1439" started-at="2020-04-21T12:57:57 CDT" finished-at="2020-04-21T12:57:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- account_Creation -->
+        <test-method status="PASS" signature="after_Test()[pri:0, instance:com.test.unosquare.amazonExample@2a17b7b6]" name="after_Test" is-config="true" duration-ms="1089" started-at="2020-04-21T12:57:58 CDT" finished-at="2020-04-21T12:57:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_Test -->
+      </class> <!-- com.test.unosquare.amazonExample -->
+    </test> <!-- amazon test -->
+  </suite> <!-- amazon test Suite -->
+</testng-results>
